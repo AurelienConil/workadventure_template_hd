@@ -2216,7 +2216,7 @@
                 {
                  "height":32,
                  "id":19,
-                 "name":"from-home",
+                 "name":"from-casino",
                  "properties":[
                         {
                          "name":"start",
@@ -2227,8 +2227,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":822.666666666667,
-                 "y":913.333333333333
+                 "x":2365.89974937343,
+                 "y":798.671679197995
                 }, 
                 {
                  "height":32,
@@ -2282,26 +2282,239 @@
                  "y":3034
                 }, 
                 {
-                 "height":1169.69696969697,
-                 "id":24,
-                 "name":"message foret ",
+                 "height":80.8243796992481,
+                 "id":39,
+                 "name":"vue fenetre",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/V1RPi2MYptM?si=WyiE6mVWhB5HGRaa?autoplay=1"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"autoplay"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"clique sur ESPACE pour regarder la vue"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":1109.09090909091,
-                 "x":3042.42424242424,
-                 "y":2024.24242424242
+                 "width":101.387684210526,
+                 "x":1243.47909022556,
+                 "y":1919.17427631579
                 }, 
                 {
-                 "height":273.333333333334,
-                 "id":35,
-                 "name":"nature des risques sur les \u00e9crans",
+                 "height":80.8244,
+                 "id":41,
+                 "name":"vue fenetre",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/BbXPd8SR_64?si=nabeVNEtskzskOsI?autoplay=1"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"clique sur ESPACE pour regarder la vue"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":816,
-                 "x":3106.66666666667,
-                 "y":1020
+                 "width":101.388,
+                 "x":1246.29848120301,
+                 "y":1694.55020601504
+                }, 
+                {
+                 "height":80.8244,
+                 "id":42,
+                 "name":"vue fenetre",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/NvRzJfuwIIA?si=DkD-MUq9wRzqGk_x?autoplay=1"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"clique sur ESPACE pour regarder la vue"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":101.388,
+                 "x":1069.6067518797,
+                 "y":1786.65546917293
+                }, 
+                {
+                 "height":921.049963909775,
+                 "id":43,
+                 "name":"vue fenetre",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.youtube.com\/embed\/b-P3MxhsMbc?si=i5dc78kWJY0J6A4F"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"clique sur ESPACE pour entrer dans la for\u00eat"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1221.6887518797,
+                 "x":2932.38870676692,
+                 "y":2023.49757443609
+                }, 
+                {
+                 "height":32,
+                 "id":44,
+                 "name":"from-home",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":816.706766917293,
+                 "y":910.691729323308
+                }, 
+                {
+                 "height":122.178,
+                 "id":46,
+                 "name":"cabine-lien",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/oirct.org\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"clique sur ESPACE pour d\u00e9couvrir l'Observatoire International pour la R\u00e9installation des Cabines T\u00e9l\u00e9phoniques"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":116.426,
+                 "x":39.5313609022556,
+                 "y":1170.1140075188
+                }, 
+                {
+                 "height":122.178,
+                 "id":48,
+                 "name":"poubelle-parc-lien",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"assets\/duree-vie-dechets.jpeg"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":116.426,
+                 "x":1766.97496992481,
+                 "y":1207.7079924812
+                }, 
+                {
+                 "height":122.178,
+                 "id":49,
+                 "name":"cabine-lien",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.lexpress.fr\/"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"clique sur ESPACE pour d\u00e9couvrir l'Observatoire International pour les actualit\u00e9s"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":116.426,
+                 "x":2520.73436842105,
+                 "y":1087.4072406015
+                }, 
+                {
+                 "height":122.178,
+                 "id":50,
+                 "name":"cabine-gif",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/giphy.com\/embed\/Vb4ifejsKiL2U"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":116.426,
+                 "x":3892.91481954887,
+                 "y":1371.24182706767
+                }, 
+                {
+                 "height":154.132887218045,
+                 "id":51,
+                 "name":"risque-ecran",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"assets\/risques.jpg"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":879.583894736842,
+                 "x":3045.17045864662,
+                 "y":1126.88092481203
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2653,7 +2866,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":36,
+ "nextobjectid":52,
  "orientation":"orthogonal",
  "properties":[
         {
