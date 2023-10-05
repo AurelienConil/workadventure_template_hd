@@ -299,6 +299,109 @@
                  "width":32,
                  "x":350.380614749308,
                  "y":254.85807783708
+                }, 
+                {
+                 "height":33.4954393841851,
+                 "id":24,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Academy Engraved LET",
+                     "pixelsize":36,
+                     "text":"DIGITAL HOUSE",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":321.001483637139,
+                 "x":216.45774116835,
+                 "y":42.7401311061841
+                }, 
+                {
+                 "height":92.1635819885476,
+                 "id":25,
+                 "name":"quizz",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/view.genial.ly\/647efc5325e3570012b97e52"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":120.106309734513,
+                 "x":476.125918532015,
+                 "y":255.844289172306
+                }, 
+                {
+                 "height":92.1636,
+                 "id":26,
+                 "name":"quizz",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/view.genial.ly\/647efc5325e3570012b97e52"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":120.106,
+                 "x":607.307749609578,
+                 "y":103.840115668922
+                }, 
+                {
+                 "height":92.1636,
+                 "id":27,
+                 "name":"quizz",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/view.genial.ly\/647efc5325e3570012b97e52"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":120.106,
+                 "x":214.803845393025,
+                 "y":97.5933691827173
+                }, 
+                {
+                 "height":128.602954502863,
+                 "id":28,
+                 "name":"quizz",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/view.genial.ly\/647efc5325e3570012b97e52"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":120.106,
+                 "x":23.2369531494013,
+                 "y":98.6344935970849
+                }, 
+                {
+                 "height":92.1636,
+                 "id":29,
+                 "name":"quizz",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/view.genial.ly\/647efc5325e3570012b97e52"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":120.106,
+                 "x":92.992288912025,
+                 "y":260.00877782405
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -367,7 +470,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":24,
+ "nextobjectid":30,
  "orientation":"orthogonal",
  "properties":[
         {

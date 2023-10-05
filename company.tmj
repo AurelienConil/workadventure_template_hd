@@ -293,41 +293,8 @@
                  "type":"area",
                  "visible":true,
                  "width":177.333333333333,
-                 "x":93.3333333333333,
-                 "y":222
-                }, 
-                {
-                 "height":129.333333333333,
-                 "id":26,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":182,
-                 "x":535.333333333333,
-                 "y":222.666666666667
-                }, 
-                {
-                 "height":58.6666666666667,
-                 "id":27,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":54,
-                 "x":272.666666666667,
-                 "y":89.3333333333333
-                }, 
-                {
-                 "height":94.6666666666667,
-                 "id":28,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":78.6666666666667,
-                 "x":498,
-                 "y":87.3333333333333
+                 "x":526.924800989257,
+                 "y":226.451657778808
                 }, 
                 {
                  "height":49.0519360074194,
@@ -347,31 +314,55 @@
                  "y":38.6082773011825
                 }, 
                 {
-                 "height":59.4534413401344,
-                 "id":38,
-                 "name":"vue fenetre",
+                 "height":127.333,
+                 "id":39,
+                 "name":"quizz",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.youtube.com\/embed\/6thiNOknHkk?autoplay=1"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"clique sur ESPACE pour regarder par la fen\u00eatre"
+                         "value":"https:\/\/view.genial.ly\/64ff121eb241f70013849cf3"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":93.0756044516578,
-                 "x":353.442567199938,
-                 "y":131.201790034006
+                 "width":98.0934915372131,
+                 "x":221.835548071721,
+                 "y":92.3651871473839
+                }, 
+                {
+                 "height":127.333,
+                 "id":40,
+                 "name":"quizz",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/view.genial.ly\/64ff121eb241f70013849cf3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":177.333,
+                 "x":106.982777378468,
+                 "y":225.02458895587
+                }, 
+                {
+                 "height":127.333,
+                 "id":41,
+                 "name":"quizz",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/view.genial.ly\/64ff121eb241f70013849cf3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":98.0935,
+                 "x":476.915534566041,
+                 "y":93.2555187031455
                 }],
          "offsetx":-0.666666666666686,
          "offsety":0.666666666666657,
@@ -442,7 +433,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":39,
+ "nextobjectid":42,
  "orientation":"orthogonal",
  "properties":[
         {
