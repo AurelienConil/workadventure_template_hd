@@ -263,7 +263,7 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":125.919357980443,
+                 "height":90.9428578164907,
                  "id":22,
                  "name":"to-map",
                  "properties":[
@@ -277,7 +277,7 @@
                  "visible":true,
                  "width":96,
                  "x":318.380614749309,
-                 "y":320.137130390744
+                 "y":355.113630554696
                 }, 
                 {
                  "height":32,
