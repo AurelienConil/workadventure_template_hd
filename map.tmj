@@ -2441,7 +2441,7 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"clique sur ESPACE pour d\u00e9couvrir l'Observatoire International pour les actualit\u00e9s"
+                         "value":"clique sur ESPACE pour d\u00e9couvrir les actualit\u00e9s"
                         }],
                  "rotation":0,
                  "type":"area",
